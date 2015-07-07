@@ -6,8 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from selenium.common.exceptions import NoSuchElementException
 
-#Assign Splunk url along with username and the password
-#Replace the URL with the URL containing the dashboard
+#Assign the url, username and password
 url = "TYPE_URL"
 user_name = "TYPE_USER_NAME"
 user_password = "TYPE_USER_PASSWORD"
