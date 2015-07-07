@@ -9,7 +9,6 @@ from selenium.common.exceptions import NoSuchElementException
 #Assign Splunk url along with username and the password
 #Replace the URL with the URL containing the dashboard
 url = "TYPE_URL"
-#Splunk readonly user
 user_name = "TYPE_USER_NAME"
 user_password = "TYPE_USER_PASSWORD"
 
